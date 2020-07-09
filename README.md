@@ -2,8 +2,6 @@ Hey there 👋
 
 My name is Corstian, and I'm an indie software developer, working on the development of [Skyhop](https://skyhop.org), as well as the occasional consultancy job.
 
-<iframe src="https://corstianboerman.com"></iframe>
-
 **Interesting work:**
 
 - [Skyhop.Mail](https://github.com/skyhop/mail) - Enforce a strong boundary between the view and model, making transactional mails easier
