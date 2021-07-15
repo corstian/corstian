@@ -1,8 +1,6 @@
 Hey there 👋
 
-My name is Corstian, and I'm an indie software developer, working on the development of [Skyhop](https://skyhop.org), as well as the occasional consultancy job.
-
-**Interesting work:**
+**Interesting things I did:**
 
 - [Skyhop.Mail](https://github.com/skyhop/mail) - Enforce a strong boundary between the view and model, making transactional mails easier
 - [FlightAnalysis](https://github.com/skyhop/flightanalysis) - Extract flight metadata from arbitrary position updates
