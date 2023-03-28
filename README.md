@@ -11,4 +11,4 @@ Hey there 👋
 **Where to find me:**
 
 - [corstianboerman.com](https://corstianboerman.com) - This is my blog where I write things. Mostly about tech, sometimes about mental health.
-- [@CorstianBoerman](https://twitter.com) - Follow me on Twitter
+- [@corstian@sunny.garden](https://sunny.garden/@corstian) - Follow me on the Fediverse
